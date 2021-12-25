@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RG-Movies</title>
+    <link rel="stylesheet" href="style1.css">
+     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <script type="text/javascript" src="javascript.js"></script>
+</head>
+<body>
+
+  <div class="wrapper">
+    <nav>
+      <input type="checkbox" id="show-search">
+      <input type="checkbox" id="show-menu">
+      <label for="show-menu" class="menu-icon"><i class="fas fa-bars"></i></label>
+      <div class="content">
+      <div class="logo"><a href="#">RG-Movies</a></div>
+        <ul class="links">
+          <li><a href="../ProjectRG/Index.html">Filma</a></li>
+          <li><a href="../ProjectRG/Seriale.html">Seriale</a></li>
+          <li>
+            <a href="#" class="desktop-link">Zhanri</a>
+            <input type="checkbox" id="show-features">
+            <label for="show-features">Zhanri</label>
+            <ul>
+                <li><a href="Aksion.html">Aksion</a></li>
+                <li><a href="Komedi.html">Komedi</a></li>
+                <li><a href="Adventure.html">Adventure</a></li>
+                <li><a href="Horror.html">Horror</a></li>
+            </ul>
+          </li>
+          
+          <li><a href="../ProjectRG/Anime.html">Anime</a></li>
+          <li><a href="../ProjectRG/LogIn.html">Register/Login</a></li>
+
+        </ul>
+      </div>
+      <label for="show-search" class="search-icon"><i class="fas fa-search"></i></label>
+      <form action="#" class="search-box">
+        <input type="text" placeholder="Type Something to Search..." required>
+        <button type="submit" class="go-icon"><i class="fas fa-long-arrow-alt-right"></i></button>
+      </form>
+    </nav>
+  </div>
+
+    
+    <br> <br> <br> <br> 
+
+    <div class="center">
+      <div class="btns">
+      <a class="a1" href="#">Sign up</a>
+      <a class="a2" href="#">Log in</a>			
+      </div>
+      <div class="signup-form">
+      <div class="header">Signup For Free</div>
+      <div class="signup_error"></div>
+      <form action="home.html" name="signupForm" method="post" onsubmit="return signupValid()">
+      <input type="text" name="firstname" placeholder="Firstname" autocomplete="off">
+      <input class="lstname" name="lastname" type="text" placeholder="Lastname" autocomplete="off">	
+      <input class="email" name="email" type="text" placeholder="Email or Phone" autocomplete="off">	
+      <input class="email" name="password" type="password" placeholder="Password" autocomplete="off">
+      <input type="submit" value="Signup">
+      </form>
+        </div>
+        <div class="login-form">
+      <div class="header header1">Login For Free</div>
+      <form action="">
+      <input class="email" type="text" placeholder="Email or Phone">	
+      <input class="email" type="password" placeholder="Password">
+      <input type="submit" value="Login">
+      </form>
+        </div>
+      </div>
+      <script src="script.js"></script>
+      <script src="valid.js"></script>
+
+    
+    <footer class="footer">
+     
+        <div class="inner">
+            <div class="column is-logo">
+                <a href="#" class="main-logo">
+                    <div class="logo">
+                        <img src="img/rg.png" alt="Logo">
+                    </div>
+                    <div class="logo-info">
+                        <div class="text">RG-Movies</div>
+                        <span class="copyright">By: Lindi&Nori</span>
+                    </div>
+                </a>
+            </div>
+            <div class="column is-nav">
+                <div class="column-title">Navigation</div>
+                <ul>
+                    <li><a href="Index.html">Home</a></li>
+                    <li><a href="Seriale.html">Seriale</a></li>
+                    <li><a href="Anime.html">Anime</a></li>
+                    <li><a href="Login.html">Log In</a></li>
+                </ul>
+            </div>
+            <div class="column is-nav">
+                <div class="column-title">Contact</div>
+                <ul>
+                    <li><a href="#"><i class="fa fa-envelope-open"></i>RG-Movies@info.com</a></li>
+                    
+                    
+                </ul>
+                    
+            </div>
+            <div class="column is-nav">
+                <div class="column-title">Social Media</div>
+                <ul>
+                    <a href="#" class="fa fa-facebook"></a>
+                    <a href="#" class="fa fa-twitter"></a>
+                    <a href="#" class="fa fa-instagram"></a>
+                </ul>
+            </div>
+        </div>
+    </footer>
+
+
+
+
+</body>
+</html>

@@ -11,7 +11,7 @@
 
 .wrapper{
   background: #010030;
-  position: fixed;
+  position: absolute;
   width: 100%;
 }
 .wrapper nav{

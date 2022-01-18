@@ -336,12 +336,12 @@ h1 {
 .col-1 iframe{
 
   width: 450px;
-  height: 470px;
+  height: 480px;
 }
 
 .col-3 {
   display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	flex-wrap: wrap;
 	justify-content: space-around;
 	align-items: center;

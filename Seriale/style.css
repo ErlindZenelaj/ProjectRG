@@ -287,6 +287,47 @@ nav .content .links{
   color: blue;
   font-size: 15px;
 }
+/* Responsive code starts here */
+@media screen and (max-width: 850px){
+
+  .flex{
+    display: flex;
+	  flex-direction: row;
+	  flex-wrap: nowrap;
+	  justify-content: space-around;
+	  align-items: stretch;
+	  align-content: space-between;
+    margin: 2px;
+  }
+
+  .flex img{
+    width: 200px;
+    height: 280px;
+    border: 1px solid blue;
+    padding: 5px;
+  }
+}
+
+@media screen and (max-width: 650px){
+
+.flex{
+  display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: space-between;
+	align-content: center;
+  
+}
+
+.flex img{
+  width: 260px;
+  height: 360px;
+  border: 1px solid blue;
+  padding: 5px;
+}
+
+}
 
 
 ul { list-style: none; }

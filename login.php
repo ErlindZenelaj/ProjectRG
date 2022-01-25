@@ -11,7 +11,7 @@ if(isset($_SEESION['username'])){
 <html lang="en" dir="ltr">
   <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="style1.css">
+    <link rel="stylesheet" href="style3.css">
     <!-- Link per Icona -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

@@ -55,6 +55,10 @@ nav .content .links{
 }
 .content .links li a:hover,
 .content .links li label:hover{
+  background: #3c7ef8;
+}
+.content .links .lg li  a:hover,
+.content .links .lg li  label:hover{
   background: #323c4e;
 }
 .wrapper .search-icon,

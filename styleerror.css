@@ -258,82 +258,10 @@ nav .content .links{
 }
 
 
-.flex {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
-	justify-content: space-around;
-	align-items: stretch;
-	align-content: space-between;
-  margin-top: 10%;
-  margin-bottom: -4%;
-  
-}
-
-.flex img{
-  width: 250px;
-  height: 320px;
-  border: 1px solid blue;
-  padding: 5px;
-}
-
-.flex a{
-  text-decoration: none;
-}
-
-.flex a h1{
-  color: black;
-  text-align: center;
-  font-size: 18px;
-}
-
-.flex a p{
-  text-align: center;
-  color: blue;
-  font-size: 15px;
-}
-
-/* Responsive code starts here */
-@media screen and (max-width: 850px){
-
-  .flex{
-    display: flex;
-	  flex-direction: row;
-	  flex-wrap: nowrap;
-	  justify-content: space-around;
-	  align-items: stretch;
-	  align-content: space-between;
-    margin: 2px;
+.Error {
+    text-align: center;
+    margin: 300px, 0px, 250px, 0px;
   }
-
-  .flex img{
-    width: 200px;
-    height: 280px;
-    border: 1px solid blue;
-    padding: 5px;
-  }
-}
-
-@media screen and (max-width: 650px){
-
-.flex{
-  display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: space-around;
-	align-items: space-between;
-	align-content: center;
-  
-}
-
-.flex img{
-  width: 260px;
-  height: 360px;
-  border: 1px solid blue;
-  padding: 5px;
-}
-
-}
 
 
 ul { list-style: none; }
@@ -542,7 +470,3 @@ a.button {
       order: 4;
   }
 }
-
-
-
-

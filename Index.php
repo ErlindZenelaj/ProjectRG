@@ -231,7 +231,7 @@ include("auth.php"); //include auth.php file on all secure pages ?>
                     <li><a href="Index.html">Home</a></li>
                     <li><a href="Seriale.html">Seriale</a></li>
                     <li><a href="Anime.html">Anime</a></li>
-                    <li><a href="Login.html">Log In</a></li>
+                    <li><a href="logout.php">Log Out</a></li>
                 </ul>
             </div>
             <div class="column is-nav">

@@ -1,3 +1,5 @@
+<?php
+include("auth.php"); //include auth.php file on all secure pages ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -94,7 +96,7 @@
 				<h1>Anime</h1>
 				<p>Dragon Ball Super: Broly<br></p>
 			</div>
-			<a href="../ProjectRG/Anime/DragonBallSuper.html"><img src="img1/DragonBallSuper.jpg" style="width: 100%; height: 100%;"></a>
+			<a href="../ProjectRG/Anime/DragonBallSuper.html"><img src="img1/DragonBallSuper.jpg"></a>
 		</div>
 
         <div class="myslide fade">
@@ -102,7 +104,7 @@
 				<h1>Anime</h1>
 				<p>Naruto Shippuden<br></p>
 			</div>
-			<a href="../ProjectRG/Anime/NarutoShippuden.html"><img src="img1/NarutoShippuden.png" style="width: 100%; height: 100%;"></a>
+			<a href="../ProjectRG/Anime/NarutoShippuden.html"><img src="img1/NarutoShippuden.png" ></a>
 		</div>
 		<!-- /fade css -->
 		

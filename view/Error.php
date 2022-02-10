@@ -5,7 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RG-Movies</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styleerror.css">
+    <link rel="stylesheet" href="cssfile.css">
+
      
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
@@ -14,7 +16,7 @@
     <script type="text/javascript" src="javascript.js"></script>
 </head>
 <body>
-
+    
     <div class="wrapper">
         <nav>
           <input type="checkbox" id="show-search">
@@ -23,24 +25,24 @@
           <div class="content">
           <div class="logo"><a href="Index.php">RG-Movies</a></div>
             <ul class="links">
-              <li><a href="Index.php">Filma</a></li>
-              <li><a href="Seriale.html">Seriale</a></li>
+              <li><a href="../ProjectRG/Index.php">Filma</a></li>
+              <li><a href="../ProjectRG/Seriale.php">Seriale</a></li>
               <li>
                 <a href="#" class="desktop-link">Zhanri</a>
                 <input type="checkbox" id="show-features">
                 <label for="show-features">Zhanri</label>
                 <ul>
-                  <li><a href="Aksion.html">Aksion</a></li>
-                  <li><a href="Komedi.html">Komedi</a></li>
-                  <li><a href="Adventure.html">Adventure</a></li>
-                  <li><a href="Horror.html">Horror</a></li>
+                  <li><a href="../ProjectRG/Aksion.php">Aksion</a></li>
+                  <li><a href="../ProjectRG/Komedi.php">Komedi</a></li>
+                  <li><a href="../ProjectRG/Adventure.php">Adventure</a></li>
+                  <li><a href="../ProjectRG/Horror.php">Horror</a></li>
                   
                 </ul>
               </li>
               
-              <li><a href="Anime.html">Anime</a></li>
+              <li><a href="../ProjectRG/Anime.php">Anime</a></li>
               <div class="lg">
-                <li><a href="../view/logout.php">Log out</a></li></div>
+              <li><a href="../ProjectRG/logout.php">Log out</a></li></div>
               
             </ul>
           </div>
@@ -52,38 +54,20 @@
         </nav>
       </div>
     
-    <br>
+    <br> <br> <br>  <br>
 
-    <div class = "flex">
-        <a href="../view/Filmat/Batman.html">
-        <img src="img/Movies/Batman.jpg">
-        <h1>Batman</h1>
-        <p>Aksion </p>
-         
-
+    <div class="Error">
+    <h1>Error 404</h1>
+    <p>Faqja qe kerkoni nuk egziston <br>
+    Ju lutem provoni tjeter!</p>
+    <div>
         
-        <a href="../view/Filmat/Venom.html">
-        <img src="img/Movies/Venom.jpg">
-        <h1>Venom</h1>
-        <p>Aksion</p></a> 
-        
-        
-   
-
-        <a href="../view/Filmat/Eternals.html">
-        <img src="img/Movies/Eternals.jpg">
-        <h1>Eternals</h1>
-        <p>Aksion</p></a> 
-      
-        
-
-        <a href="../view/Filmat/F9.html">
-        <img src="img/Movies/F9.jpg">
-        <h1>F9</h1>
-        <p>Aksion</p></a>
-       
+    </div>
     </div>
 
+
+    <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+        
     <footer class="footer">
      
         <div class="inner">
@@ -102,8 +86,8 @@
                 <div class="column-title">Navigation</div>
                 <ul>
                     <li><a href="Index.php">Home</a></li>
-                    <li><a href="Seriale.html">Seriale</a></li>
-                    <li><a href="Anime.html">Anime</a></li>
+                    <li><a href="Seriale.php">Seriale</a></li>
+                    <li><a href="Anime.php">Anime</a></li>
                     <li><a href="logout.php">Log Out</a></li>
                 </ul>
             </div>
@@ -127,7 +111,14 @@
         </div>
     </footer>
 
-    
+    <script src="jsfile.js"></script>
+
+
+
+
+
+
+
 
 
 </body>

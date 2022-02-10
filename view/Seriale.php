@@ -6,11 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RG-Movies</title>
     <link rel="stylesheet" href="style.css">
+    <!-- Link per Icon te SearchBar -->
      
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    
+
     <script type="text/javascript" src="javascript.js"></script>
 </head>
 <body>
@@ -21,52 +22,127 @@
           <input type="checkbox" id="show-menu">
           <label for="show-menu" class="menu-icon"><i class="fas fa-bars"></i></label>
           <div class="content">
-          <div class="logo"><a href="Index.php">RG-Movies</a></div>
+          <div class="logo"><a href="../view/Index.php">RG-Movies</a></div>
             <ul class="links">
-              <li><a href="Index.php">Filma</a></li>
-              <li><a href="Seriale.html">Seriale</a></li>
+              <li><a href="../view/Index.php">Filma</a></li>
+              <li><a href="../view/Seriale.php">Seriale</a></li>
               <li>
                 <a href="#" class="desktop-link">Zhanri</a>
                 <input type="checkbox" id="show-features">
                 <label for="show-features">Zhanri</label>
                 <ul>
-                  <li><a href="Aksion.html">Aksion</a></li>
-                  <li><a href="Komedi.html">Komedi</a></li>
-                  <li><a href="Adventure.html">Adventure</a></li>
-                  <li><a href="Horror.html">Horror</a></li>
-                  
+                    <li><a href="Aksion.php">Aksion</a></li>
+                    <li><a href="Komedi.php">Komedi</a></li>
+                    <li><a href="Adventure.php">Adventure</a></li>
+                    <li><a href="Horror.php">Horror</a></li>
                 </ul>
               </li>
               
-              <li><a href="Anime.html">Anime</a></li>
+              <li><a href="../view/Anime.php">Anime</a></li>
               <div class="lg">
                 <li><a href="../view/logout.php">Log out</a></li></div>
-              
+
             </ul>
           </div>
           <label for="show-search" class="search-icon"><i class="fas fa-search"></i></label>
           <form action="#" class="search-box">
-            <input type="text" placeholder="Type Something to Search..." required id="search" onchange="openPage()">
+            <input type="text" placeholder="Type Something to Search..." required>
             <button type="submit" class="go-icon"><i class="fas fa-long-arrow-alt-right"></i></button>
           </form>
         </nav>
       </div>
     
-    <br>
+    <br> <br> <br>
 
+    
     <div class = "flex">
-        <a href="../view/logout.php">
-        <img src="img/Movies/Free-Guy.jpg">
-        <h1>Free Guy</h1>
-        <p>Aksion </p>
+        <a href="../view/Seriale/SquidGames.html">
+        <img src="img/Serial/SquidGame.jpg">
+        <h1>Squid Games</h1>
+        </a>
+
+        
+        <a href="../view/Seriale/LaCasaDePapel.html">
+        <img src="img/Serial/La-casa.jpg">
+        <h1>La Casa De Papel</h1>
+        </a>
+          
+        <a href="../view/Seriale/Rrushe.html">
+        <img src="img/Serial/Rrushe.jpg">
+        <h1>Rrushe</h1>
+        </a>
+        
+
+
+        <a href="../view/Seriale/Vis-a-Vis.html">
+        <img src="img/Serial/Vis-a-Vis.jpg">
+        <h1>Vis-a-Vis</h1>
+        </a>
+        
+    </div>
+    
+    <div class = "flex">
+        <a href="../view/Seriale/Lucifer.html">
+        <img src="img/Serial/Lucifer.jpg">
+        <h1>Lucifer</h1></a>
+        
          
 
         
-       
+        <a href="../view/Seriale/See.html">
+        <img src="img/Serial/See.jpg">
+        <h1>See</h1>
+        </a> 
+        
+        
+   
+
+        <a href="../view/Seriale/QueensGambit.html">
+        <img src="img/Serial/QueensGambit.jpg">
+        <h1>Queens Gambit</h1>
+        </a> 
+      
+        
+
+        <a href="../view/Seriale/WhatIf.html">
+        <img src="img/Serial/WhatIf.jpg">
+        <h1>What If</h1>
+        </a>
        
     </div>
+    
+    <div class = "flex">
+        <a href="../view/Seriale/OuterBanks.html">
+            <img src="img/Serial/OuterBanks.jpg">
+            <h1>Outer Banks</h1>
+            </a>
+       
 
-    <footer class="footer">
+        
+        <a href="../view/Seriale/Loki.html">
+            <img src="img/Serial/Loki.jpg">
+            <h1>Loki</h1>
+           </a> 
+        
+        
+   
+
+        <a href="../view/Seriale/TheFlash.html">
+            <img src="img/Serial/TheFlash.jpg">
+            <h1>The Flash</h1>
+            </a> 
+        
+        
+
+        <a href="../view/Seriale/SexEducation.html">
+        <img src="img/Serial/Sex-education.jpg">
+        <h1>Sex-Education</h1>
+        </a>
+
+
+      </div>
+        
+      <footer class="footer">
      
         <div class="inner">
             <div class="column is-logo">
@@ -84,8 +160,8 @@
                 <div class="column-title">Navigation</div>
                 <ul>
                     <li><a href="Index.php">Home</a></li>
-                    <li><a href="Seriale.html">Seriale</a></li>
-                    <li><a href="Anime.html">Anime</a></li>
+                    <li><a href="Seriale.php">Seriale</a></li>
+                    <li><a href="Anime.php">Anime</a></li>
                     <li><a href="logout.php">Log Out</a></li>
                 </ul>
             </div>
@@ -109,8 +185,17 @@
         </div>
     </footer>
 
-    
 
 
-</body>
-</html>
+
+
+
+
+
+  
+    </body>
+    </html>
+
+
+
+        

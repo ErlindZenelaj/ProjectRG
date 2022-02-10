@@ -24,21 +24,21 @@
           <div class="logo"><a href="Index.php">RG-Movies</a></div>
             <ul class="links">
               <li><a href="Index.php">Filma</a></li>
-              <li><a href="Seriale.html">Seriale</a></li>
+              <li><a href="Seriale.php">Seriale</a></li>
               <li>
                 <a href="#" class="desktop-link">Zhanri</a>
                 <input type="checkbox" id="show-features">
                 <label for="show-features">Zhanri</label>
                 <ul>
-                  <li><a href="Aksion.html">Aksion</a></li>
-                  <li><a href="Komedi.html">Komedi</a></li>
-                  <li><a href="Adventure.html">Adventure</a></li>
-                  <li><a href="Horror.html">Horror</a></li>
+                  <li><a href="Aksion.php">Aksion</a></li>
+                  <li><a href="Komedi.php">Komedi</a></li>
+                  <li><a href="Adventure.php">Adventure</a></li>
+                  <li><a href="Horror.php">Horror</a></li>
                   
                 </ul>
               </li>
               
-              <li><a href="Anime.html">Anime</a></li>
+              <li><a href="Animep.php">Anime</a></li>
               <div class="lg">
                 <li><a href="../view/logout.php">Log out</a></li></div>
               
@@ -55,14 +55,14 @@
     <br>
 
     <div class = "flex">
-        <a href="../view/Filmat/HalloweenKills.html">
-        <img src="img/Movies/Halloween Kills.jpg">
-        <h1>Halloween Kills</h1>
-        <p>Horror </p>
+        <a href="../view/logout.php">
+        <img src="img/Movies/Free-Guy.jpg">
+        <h1>Free Guy</h1>
+        <p>Aksion </p>
          
 
         
-        
+       
        
     </div>
 
@@ -84,8 +84,8 @@
                 <div class="column-title">Navigation</div>
                 <ul>
                     <li><a href="Index.php">Home</a></li>
-                    <li><a href="Seriale.html">Seriale</a></li>
-                    <li><a href="Anime.html">Anime</a></li>
+                    <li><a href="Seriale.php">Seriale</a></li>
+                    <li><a href="Anime.php">Anime</a></li>
                     <li><a href="logout.php">Log Out</a></li>
                 </ul>
             </div>

@@ -19,28 +19,28 @@
 
     <div class="wrapper">
         <nav>
-          <input type="checkbox" id="show-search">
+          <input type="checkbox" id="show-search"> 
           <input type="checkbox" id="show-menu">
           <label for="show-menu" class="menu-icon"><i class="fas fa-bars"></i></label>
           <div class="content">
-          <div class="logo"><a href="../view/Index.html">RG-Movies</a></div>
+          <div class="logo"><a href="../view/Index.php">RG-Movies</a></div>
             <ul class="links">
-              <li><a href="../view/Index.html">Filma</a></li>
-              <li><a href="../view/Seriale.html">Seriale</a></li>
+              <li><a href="../view/Index.php">Filma</a></li>
+              <li><a href="../view/Seriale.php">Seriale</a></li>
               <li>
                 <a href="#" class="desktop-link">Zhanri</a>
                 <input type="checkbox" id="show-features">
                 <label for="show-features">Zhanri</label>
                 <ul>
-                  <li><a href="Aksion.html">Aksion</a></li>
-                  <li><a href="Komedi.html">Komedi</a></li>
-                  <li><a href="Adventure.html">Adventure</a></li>
-                  <li><a href="Horror.html">Horror</a></li>
+                  <li><a href="Aksion.php">Aksion</a></li>
+                  <li><a href="Komedi.php">Komedi</a></li>
+                  <li><a href="Adventure.php">Adventure</a></li>
+                  <li><a href="Horror.php">Horror</a></li>
                   
                 </ul>
               </li>
               
-              <li><a href="../view/Anime.html">Anime</a></li>
+              <li><a href="../view/Anime.php">Anime</a></li>
               <div class="lg">
               <li><a href="../view/logout.php">Log out</a></li></div>
               
@@ -227,8 +227,8 @@
                 <div class="column-title">Navigation</div>
                 <ul>
                     <li><a href="Index.php">Home</a></li>
-                    <li><a href="Seriale.html">Seriale</a></li>
-                    <li><a href="Anime.html">Anime</a></li>
+                    <li><a href="Seriale.php">Seriale</a></li>
+                    <li><a href="Anime.php">Anime</a></li>
                     <li><a href="logout.php">Log Out</a></li>
                 </ul>
             </div>

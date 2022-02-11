@@ -56,25 +56,25 @@
 
     
     <div class = "flex">
-        <a href="../view/Seriale/SquidGames.html">
+        <a href="../view/Seriale/SquidGames.php">
         <img src="img/Serial/SquidGame.jpg">
         <h1>Squid Games</h1>
         </a>
 
         
-        <a href="../view/Seriale/LaCasaDePapel.html">
+        <a href="../view/Seriale/LaCasaDePapel.php">
         <img src="img/Serial/La-casa.jpg">
         <h1>La Casa De Papel</h1>
         </a>
           
-        <a href="../view/Seriale/Rrushe.html">
+        <a href="../view/Seriale/Rrushe.php">
         <img src="img/Serial/Rrushe.jpg">
         <h1>Rrushe</h1>
         </a>
         
 
 
-        <a href="../view/Seriale/Vis-a-Vis.html">
+        <a href="../view/Seriale/Vis-a-Vis.php">
         <img src="img/Serial/Vis-a-Vis.jpg">
         <h1>Vis-a-Vis</h1>
         </a>
@@ -82,14 +82,14 @@
     </div>
     
     <div class = "flex">
-        <a href="../view/Seriale/Lucifer.html">
+        <a href="../view/Seriale/Lucifer.php">
         <img src="img/Serial/Lucifer.jpg">
         <h1>Lucifer</h1></a>
         
          
 
         
-        <a href="../view/Seriale/See.html">
+        <a href="../view/Seriale/See.php">
         <img src="img/Serial/See.jpg">
         <h1>See</h1>
         </a> 
@@ -97,14 +97,14 @@
         
    
 
-        <a href="../view/Seriale/QueensGambit.html">
+        <a href="../view/Seriale/QueensGambit.php">
         <img src="img/Serial/QueensGambit.jpg">
         <h1>Queens Gambit</h1>
         </a> 
       
         
 
-        <a href="../view/Seriale/WhatIf.html">
+        <a href="../view/Seriale/WhatIf.php">
         <img src="img/Serial/WhatIf.jpg">
         <h1>What If</h1>
         </a>
@@ -112,14 +112,14 @@
     </div>
     
     <div class = "flex">
-        <a href="../view/Seriale/OuterBanks.html">
+        <a href="../view/Seriale/OuterBanks.php">
             <img src="img/Serial/OuterBanks.jpg">
             <h1>Outer Banks</h1>
             </a>
        
 
         
-        <a href="../view/Seriale/Loki.html">
+        <a href="../view/Seriale/Loki.php">
             <img src="img/Serial/Loki.jpg">
             <h1>Loki</h1>
            </a> 
@@ -127,14 +127,14 @@
         
    
 
-        <a href="../view/Seriale/TheFlash.html">
+        <a href="../view/Seriale/TheFlash.php">
             <img src="img/Serial/TheFlash.jpg">
             <h1>The Flash</h1>
             </a> 
         
         
 
-        <a href="../view/Seriale/SexEducation.html">
+        <a href="../view/Seriale/SexEducation.php">
         <img src="img/Serial/Sex-education.jpg">
         <h1>Sex-Education</h1>
         </a>

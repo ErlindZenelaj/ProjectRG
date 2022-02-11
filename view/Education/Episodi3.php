@@ -77,16 +77,16 @@
         <h1>Epsioda Tjerë</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../Education/Episodi2.html">
+        <a href="../Education/Episodi2.php">
         <img src="../img/Serial/Sex-education.jpg">
         <h1>Episoda 2</h1></a>
     
             
-        <a href="../Education/Episodi4.html">
+        <a href="../Education/Episodi4.php">
         <img src="../img/Serial/Sex-education.jpg">
         <h1>Episoda 4</h1></a>
               
-        <a href="../Education/Episodi5.html">
+        <a href="../Education/Episodi5.php">
         <img src="../img/Serial/Sex-education.jpg">
         <h1>Episoda 5</h1></a>
             

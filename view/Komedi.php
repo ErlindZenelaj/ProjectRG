@@ -55,7 +55,7 @@
     <br>
 
     <div class = "flex">
-        <a href="../view/logout.php">
+        <a href="../view/Filmat/Free-Guy.php">
         <img src="img/Movies/Free-Guy.jpg">
         <h1>Free Guy</h1>
         <p>Aksion </p>

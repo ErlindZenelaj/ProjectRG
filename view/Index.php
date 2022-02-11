@@ -64,7 +64,7 @@
 				<h1>Movie</h1>
 				<p>SpiderMan<br>No Way Home</p>
 			</div>
-			<a href="../view/Filmat/SpiderMan1.html"><img src="img1/SpiderMan.jpg" ></a>
+			<a href="../view/Filmat/SpiderMan1.php"><img src="img1/SpiderMan.jpg" ></a>
 		</div>
 		
 		<div class="myslide fade">
@@ -72,7 +72,7 @@
 				<h1>Movie</h1>
 				<p>Venom<br>Let There Be Carnage</p>
 			</div>
-			<a href="../view/Filmat/Venom.html"><img src="img1/Venom.jpg" ></a>
+			<a href="../view/Filmat/Venom.php"><img src="img1/Venom.jpg" ></a>
 		</div>
 		
 		<div class="myslide fade">
@@ -80,7 +80,7 @@
 				<h1>Serial</h1>
 				<p>Squid Games<br></p>
 			</div>
-            <a href="../view/Seriale/SquidGames.html"><img src="img1/SquidGames.jpg" ></a>
+            <a href="../view/Seriale/SquidGames.php"><img src="img1/SquidGames.jpg" ></a>
 		</div>
 		
 		<div class="myslide fade">
@@ -88,7 +88,7 @@
 				<h1>Serial</h1>
 				<p>La Casa De Papel<br></p>
 			</div>
-			<a href="../view/Seriale/LaCasaDePapel.html"><img src="img1/LaCasa.jpg" ></a>
+			<a href="../view/Seriale/LaCasaDePapel.php"><img src="img1/LaCasa.jpg" ></a>
 		</div>
 		
 		<div class="myslide fade">
@@ -96,7 +96,7 @@
 				<h1>Anime</h1>
 				<p>Dragon Ball Super: Broly<br></p>
 			</div>
-			<a href="../view/Anime/DragonBallSuper.html"><img src="img1/DragonBallSuper.jpg"></a>
+			<a href="../view/Anime/DragonBallSuper.php"><img src="img1/DragonBallSuper.jpg"></a>
 		</div>
 
         <div class="myslide fade">
@@ -104,7 +104,7 @@
 				<h1>Anime</h1>
 				<p>Naruto Shippuden<br></p>
 			</div>
-			<a href="../view/Anime/NarutoShippuden.html"><img src="img1/NarutoShippuden.png" ></a>
+			<a href="../view/Anime/NarutoShippuden.php"><img src="img1/NarutoShippuden.png" ></a>
 		</div>
 		<!-- /fade css -->
 		
@@ -127,23 +127,23 @@
     <br>
     
     <div class = "flex">
-        <a href="../view/Filmat/Batman.html">
+        <a href="../view/Filmat/Batman.php">
         <img src="img/Movies/Batman.jpg">
         <h1>Batman</h1>
         <p>Aksion Adventure</p></a>
 
         
-        <a href="../view/Filmat/SpiderMan1.html">
+        <a href="../view/Filmat/SpiderMan1.php">
         <img src="img/Movies/SpiderMan1.jpg">
         <h1>Spider Man: No Way Home</h1>
         <p>Aksion Adventure</p></a>
           
-        <a href="../view/Filmat/Venom.html">
+        <a href="../view/Filmat/Venom.php">
         <img src="img/Movies/Venom.jpg">
         <h1>Venom: Let there be carnage</h1>
         <p>Aksion Adventure</p></a>
         
-        <a href="../view/Filmat/Eternals.html">
+        <a href="../view/Filmat/Eternals.php">
         <img src="img/Movies/Eternals.jpg">
         <h1>Eternals</h1>
         <p>Aksion</p></a>
@@ -151,14 +151,14 @@
     </div>
     
     <div class = "flex">
-        <a href="../view/Filmat/Shang-Chi.html">
+        <a href="../view/Filmat/Shang-Chi.php">
         <img src="img/Movies/Shang-Chi.jpeg">
         <h1>Shang-Chi</h1>
         <p>Aksion Adventure</p>
          
 
         
-        <a href="../view/Filmat/Free-Guy.html">
+        <a href="../view/Filmat/Free-Guy.php">
         <img src="img/Movies/Free-Guy.jpg">
         <h1>Free Guy</h1>
         <p>Komedi Aksion</p></a> 
@@ -166,14 +166,14 @@
         
    
 
-        <a href="../view/Filmat/NoTimeToDie.html">
+        <a href="../view/Filmat/NoTimeToDie.php">
         <img src="img/Movies/NoTimeToDie.jpg">
         <h1>No Time To Die</h1>
         <p>Aksione Adventure</p></a> 
       
         
 
-        <a href="../view/Filmat/F9.html">
+        <a href="../view/Filmat/F9.php">
         <img src="img/Movies/F9.jpg">
         <h1>F9</h1>
         <p>Aksion</p></a>
@@ -181,14 +181,14 @@
     </div>
     
     <div class = "flex">
-        <a href="../view/Filmat/TheSuicideSquad.html">
+        <a href="../view/Filmat/TheSuicideSquad.php">
             <img src="img/Movies/TheSuicideSquad.jpg">
             <h1>The Suicide Squad</h1>
             <p>Aksion Adventure</p></a>
        
 
         
-        <a href="../view/Filmat/BlackWidow.html">
+        <a href="../view/Filmat/BlackWidow.php">
             <img src="img/Movies/BlackWidow.jpg">
             <h1>BlackWidow</h1>
             <p>Aksion Adventure</p></a> 
@@ -196,14 +196,14 @@
         
    
 
-        <a href="../view/Filmat/SpiderManNWH.html">
+        <a href="../view/Filmat/SpiderManNWH.php">
             <img src="img/Movies/SpiderMan.jpg">
             <h1>Spider Man: Far From Home </h1>
             <p>Komedi</p></a> 
         
         
 
-        <a href="../view/Filmat/HalloweenKills.html">
+        <a href="../view/Filmat/HalloweenKills.php">
         <img src="img/Movies/Halloween Kills.jpg">
         <h1>Halloween</h1>
             <p>Horror</p></a>

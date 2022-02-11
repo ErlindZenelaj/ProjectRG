@@ -55,24 +55,24 @@
     <br>
 
     <div class = "flex">
-        <a href="../view/Filmat/SpiderMan1.html">
+        <a href="../view/Filmat/SpiderMan1.php">
         <img src="img/Movies/SpiderMan1.jpg">
         <h1>Spider Man: No Way Home</h1>
         <p>Adeventure </p>
         
         
-        <a href="../view/Filmat/Venom.html">
+        <a href="../view/Filmat/Venom.php">
         <img src="img/Movies/Venom.jpg">
         <h1>Venom: Let There Be Carnage</h1>
         <p>Adeventure</p></a> 
         
         
-        <a href="../view/Filmat/SpiderManNWH.html">
+        <a href="../view/Filmat/SpiderManNWH.php">
         <img src="img/Movies/SpiderMan.jpg">
         <h1>Spider Man: Far From Home</h1>
         <p>Adventure</p></a> 
 
-        <a href="../view/Filmat/NoTimeToDie.html">
+        <a href="../view/Filmat/NoTimeToDiephp">
         <img src="img/Movies/NoTimeToDie.jpg">
         <h1>No Time To Die</h1>
         <p>Adventure</p></a> 

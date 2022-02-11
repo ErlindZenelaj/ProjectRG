@@ -77,16 +77,16 @@
         <h1>Epsioda Tjerë</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../TheFlash/Episodi5.html">
+        <a href="../TheFlash/Episodi5.php">
         <img src="../img/Serial/TheFlash.jpg">
         <h1>Episoda 5</h1></a>
     
             
-        <a href="../TheFlash/Episodi7.html">
+        <a href="../TheFlash/Episodi7.php">
           <img src="../img/Serial/TheFlash.jpg">
         <h1>Episoda 7</h1></a>
               
-        <a href="../TheFlash/Episodi8.html">
+        <a href="../TheFlash/Episodi8.php">
           <img src="../img/Serial/TheFlash.jpg">
         <h1>Episoda 8</h1></a>
             

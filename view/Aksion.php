@@ -55,14 +55,14 @@
     <br>
 
     <div class = "flex">
-        <a href="../view/Filmat/Batman.html">
+        <a href="../view/Filmat/Batman.php">
         <img src="img/Movies/Batman.jpg">
         <h1>Batman</h1>
         <p>Aksion </p>
          
 
         
-        <a href="../view/Filmat/Venom.html">
+        <a href="../view/Filmat/Venom.php">
         <img src="img/Movies/Venom.jpg">
         <h1>Venom</h1>
         <p>Aksion</p></a> 
@@ -70,14 +70,14 @@
         
    
 
-        <a href="../view/Filmat/Eternals.html">
+        <a href="../view/Filmat/Eternals.php">
         <img src="img/Movies/Eternals.jpg">
         <h1>Eternals</h1>
         <p>Aksion</p></a> 
       
         
 
-        <a href="../view/Filmat/F9.html">
+        <a href="../view/Filmat/F9.php">
         <img src="img/Movies/F9.jpg">
         <h1>F9</h1>
         <p>Aksion</p></a>

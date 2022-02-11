@@ -74,20 +74,20 @@
         <div class="col-3 "><br>
         <br>
 
-            <a href="../Anime/DragonBallSuper.html">
+            <a href="../Anime/DragonBallSuper.php">
             <img src="../img/Anime/DragonBallSuper.jpg">
             <h1>Dragon Ball Super: Broly</h1></a>
     
             
-            <a href="../Anime/AttackOnTitan.html">
+            <a href="../Anime/AttackOnTitan.php">
             <img src="../img/Anime/AttackOnTitan.jpg">
             <h1>Attack On Titan</h1></a>
               
-            <a href="../Anime/Jujutsu.html">
+            <a href="../Anime/Jujutsu.php">
             <img src="../img/Anime/Jujutsu.jpg">
             <h1>Jujutsu</h1></a>
             
-            <a href="../Anime/DeathNote.html">
+            <a href="../Anime/DeathNote.php">
             <img src="../img/Anime/DeathNote.jpg">
             <h1>Death Note</h1></a>
         

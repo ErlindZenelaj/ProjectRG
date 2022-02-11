@@ -75,16 +75,16 @@
         <h1>Epsioda Tjerë</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../QueensGambit/Episodi1.html">
+        <a href="../QueensGambit/Episodi1.php">
         <img src="../img/Serial/QueensGambit.jpg">
         <h1>Episoda 1</h1></a>
     
             
-        <a href="../QueensGambit/Episodi3.html">
+        <a href="../QueensGambit/Episodi3.php">
         <img src="../img/Serial/QueensGambit.jpg">
         <h1>Episoda 3</h1></a>
               
-        <a href="../QueensGambit/Episodi4.html">
+        <a href="../QueensGambit/Episodi4.php">
         <img src="../img/Serial/QueensGambit.jpg">
         <h1>Episoda 4</h1></a>
             

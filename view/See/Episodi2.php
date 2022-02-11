@@ -73,16 +73,16 @@
         <h1>Epsioda Tjerë</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../See/Episodi1.html">
+        <a href="../See/Episodi1.php">
         <img src="../img/Serial/See.jpg">
         <h1>Episoda 1</h1></a>
     
             
-        <a href="../See/Episodi3.html">
+        <a href="../See/Episodi3.php">
         <img src="../img/Serial/See.jpg">
         <h1>Episoda 3</h1></a>
               
-        <a href="../See/Episodi4.html">
+        <a href="../See/Episodi4.php">
         <img src="../img/Serial/See.jpg">
         <h1>Episoda 4</h1></a>
             

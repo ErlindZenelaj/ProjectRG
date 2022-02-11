@@ -75,16 +75,16 @@
         <h1>Epsioda Tjerë</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../Loki/Episodi2.html">
+        <a href="../Loki/Episodi2.php">
         <img src="../img/Serial/Loki.jpg">
         <h1>Episoda 2</h1></a>
     
             
-        <a href="../Loki/Episodi3.html">
+        <a href="../Loki/Episodi3.php">
         <img src="../img/Serial/Loki.jpg">
         <h1>Episoda 3</h1></a>
               
-        <a href="../Loki/Episodi2.html">
+        <a href="../Loki/Episodi2.php">
         <img src="../img/Serial/Loki.jpg">
         <h1>Episoda 4</h1></a>
             

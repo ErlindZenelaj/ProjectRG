@@ -75,16 +75,16 @@
         <h1>Epsioda Tjerë</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../LaCasa/Episodi2.html">
+        <a href="../LaCasa/Episodi2.php">
         <img src="../img/Serial/La-casa.jpg">
         <h1>Episoda 2</h1></a>
     
             
-        <a href="../LaCasa/Episodi4.html">
+        <a href="../LaCasa/Episodi4.php">
         <img src="../img/Serial/La-casa.jpg">
         <h1>Episoda 4</h1></a>
               
-        <a href="../LaCasa/Episodi5.html">
+        <a href="../LaCasa/Episodi5..php">
         <img src="../img/Serial/La-casa.jpg">
         <h1>Episoda 5</h1></a>
             

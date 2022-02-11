@@ -53,23 +53,23 @@
     <br> <br> <br>
     
     <div class = "flex">
-        <a href="Anime/DragonBallSuper.html">
+        <a href="Anime/DragonBallSuper.php">
         <img src="img/Anime/DragonBallSuper.jpg">
         <h1>Dragon Ball: Super</h1>
         </a>
 
         
-        <a href="Anime/NarutoShippuden.html">
+        <a href="Anime/NarutoShippuden.php">
         <img src="img/Anime/NarutoShippuden.png">
         <h1>Naruto Shippuden</h1>
         </a>
           
-        <a href="Anime/DeathNote.html">
+        <a href="Anime/DeathNotephpl">
         <img src="img/Anime/DeathNote.jpg">
         <h1>Death Note</h1>
         </a>
 
-        <a href="Anime/DemonSlayer.html">
+        <a href="Anime/DemonSlayer.php">
         <img src="img/Anime/DemonSlayer.jpg">
         <h1>Demon Slayer</h1>
         </a>
@@ -77,14 +77,14 @@
     </div>
     
     <div class = "flex">
-        <a href="Anime/Bleach.html">
+        <a href="Anime/Bleach.php">
         <img src="img/Anime/Bleach.jpg">
         <h1>Bleach</h1></a>
         
          
 
         
-        <a href="Anime/AttackOnTitan.html">
+        <a href="Anime/AttackOnTitan.php">
         <img src="img/Anime/AttackOnTitan.jpg">
         <h1>Attack On Titan</h1>
         </a> 
@@ -92,14 +92,14 @@
         
    
 
-        <a href="Anime/OnePiece.html">
+        <a href="Anime/OnePiece.php">
         <img src="img/Anime/OnePiece.jpg">
         <h1>One Piece</h1>
         </a> 
       
         
 
-        <a href="Anime/OnePunchMan.html">
+        <a href="Anime/OnePunchMan.php">
         <img src="img/Anime/OnePunchMan.jpg">
         <h1>One Punch Man</h1>
         </a>
@@ -107,25 +107,25 @@
     </div>
     
     <div class = "flex">
-        <a href="Anime/DragonBallZ.html">
+        <a href="Anime/DragonBallZ.php">
             <img src="img/Anime/DragonBallZ.jpg">
             <h1>Dragon Ball Z</h1>
             </a>
        
 
         
-        <a href="Anime/Naruto.html">
+        <a href="Anime/Naruto.php">
             <img src="img/anime/Naruto.jpg">
             <h1>Naruto</h1>
            </a> 
         
 
-        <a href="Anime/Jujutsu.html">
+        <a href="Anime/Jujutsu.php">
             <img src="img/Anime/Jujutsu.jpg">
             <h1>Jujutsu</h1>
             </a> 
 
-        <a href="Anime/MyHeroAcademy.html">
+        <a href="Anime/MyHeroAcademy.php">
         <img src="img/Anime/MyHeroAcademy.jpg">
         <h1>My Hero Academy</h1>
         </a>

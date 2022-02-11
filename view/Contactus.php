@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Contact Me</h1>
+        <h1>Contact Us</h1>
         <p>Mund te ne kontaktoni per cdo Film,Seriale & Anime qe deshironi!</p>
         <form action="mail.php" method="POST">
             <label for="name">Name:</label>

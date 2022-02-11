@@ -75,16 +75,16 @@
         <h1>Epsioda Tjerë</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../WhatIf/Episodi5.html">
+        <a href="../WhatIf/Episodi5.php">
         <img src="../img/Serial/WhatIf.jpg">
         <h1>Episoda 5</h1></a>
     
             
-        <a href="../WhatIf/Episodi6.html">
+        <a href="../WhatIf/Episodi6.php">
         <img src="../img/Serial/WhatIf.jpg">
         <h1>Episoda 6</h1></a>
               
-        <a href="../WhatIf/Episodi7.html">
+        <a href="../WhatIf/Episodi7.php">
         <img src="../img/Serial/WhatIf.jpg">
         <h1>Episoda 7</h1></a>
             

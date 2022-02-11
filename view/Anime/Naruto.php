@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+php<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -74,20 +74,20 @@
         <div class="col-3 "><br>
         <br>
 
-            <a href="../Anime/DragonBallSuper.html">
+            <a href="../Anime/DragonBallSuper.php">
             <img src="../img/Anime/DragonBallSuper.jpg">
             <h1>Dragon Ball Super: Broly</h1></a>
     
             
-            <a href="../Anime/AttackOnTitan.html">
+            <a href="../Anime/AttackOnTitan.php">
             <img src="../img/Anime/AttackOnTitan.jpg">
             <h1>Attack On Titan</h1></a>
               
-            <a href="../Anime/NarutoShippuden.html">
+            <a href="../Anime/NarutoShippuden.php">
             <img src="../img/Anime/NarutoShippuden.png">
             <h1>Naruto Shippuden: The Last</h1></a>
             
-            <a href="../Anime/DeathNote.html">
+            <a href="../Anime/DeathNote.php">
             <img src="../img/Anime/DeathNote.jpg">
             <h1>Death Note</h1></a>
         

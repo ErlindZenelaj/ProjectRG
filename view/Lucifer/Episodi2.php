@@ -76,16 +76,16 @@
         <h1>Epsioda Tjerë</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../Lucifer/Episodi1.html">
+        <a href="../Lucifer/Episodi1.php">
         <img src="../img/Serial/Lucifer.jpg">
         <h1>Episoda 1</h1></a>
     
             
-        <a href="../Lucifer/Episodi3.html">
+        <a href="../Lucifer/Episodi3.php">
         <img src="../img/Serial/Lucifer.jpg">
         <h1>Episoda 3</h1></a>
               
-        <a href="../Lucifer/Episodi4.html">
+        <a href="../Lucifer/Episodi4.php">
         <img src="../img/Serial/Lucifer.jpg">
         <h1>Episoda 4</h1></a>
             

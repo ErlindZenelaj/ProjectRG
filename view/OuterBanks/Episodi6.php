@@ -75,16 +75,16 @@
         <h1>Epsioda Tjerë</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../OuterBanks/Episodi5.html">
+        <a href="../OuterBanks/Episodi5.php">
         <img src="../img/Serial/OuterBanks.jpg">
         <h1>Episoda 5</h1></a>
     
             
-        <a href="../OuterBanks/Episodi7.html">
+        <a href="../OuterBanks/Episodi7.php">
         <img src="../img/Serial/OuterBanks.jpg">
         <h1>Episoda 7</h1></a>
               
-        <a href="../OuterBanks/Episodi8.html">
+        <a href="../OuterBanks/Episodi8.php">
         <img src="../img/Serial/OuterBanks.jpg">
         <h1>Episoda 8</h1></a>
             

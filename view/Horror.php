@@ -55,7 +55,7 @@
     <br>
 
     <div class = "flex">
-        <a href="../view/Filmat/HalloweenKills.html">
+        <a href="../view/Filmat/HalloweenKills.php">
         <img src="img/Movies/Halloween Kills.jpg">
         <h1>Halloween Kills</h1>
         <p>Horror </p>

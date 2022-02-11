@@ -77,16 +77,16 @@
         <h1>Epsioda Tjerë</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../Rrushe/Episodi5.html">
+        <a href="../Rrushe/Episodi5.php">
         <img src="../img/Serial/Rrushe.jpg">
         <h1>Episoda 5</h1></a>
     
             
-        <a href="../Rrushe/Episodi7.html">
+        <a href="../Rrushe/Episodi7.php">
         <img src="../img/Serial/Rrushe.jpg">
         <h1>Episoda 7</h1></a>
               
-        <a href="../Rrushe/Episodi8.html">
+        <a href="../Rrushe/Episodi8.php">
         <img src="../img/Serial/Rrushe.jpg">
         <h1>Episoda 8</h1></a>
             

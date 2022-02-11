@@ -75,16 +75,16 @@
         <h1>Epsioda Tjerë</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../Vis-a-Vis/Episodi5.html">
+        <a href="../Vis-a-Vis/Episodi5.php">
         <img src="../img/Serial/Vis-a-Vis.jpg">
         <h1>Episoda 5</h1></a>
     
             
-        <a href="../Vis-a-Vis/Episodi7.html">
+        <a href="../Vis-a-Vis/Episodi7.php">
         <img src="../img/Serial/Vis-a-Vis.jpg">
         <h1>Episoda 7</h1></a>
               
-        <a href="../Vis-a-Vis/Episodi8.html">
+        <a href="../Vis-a-Vis/Episodi8.php">
         <img src="../img/Serial/Vis-a-Vis.jpg">
         <h1>Episoda 8</h1></a>
             

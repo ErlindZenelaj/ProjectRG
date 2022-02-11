@@ -74,20 +74,20 @@
         <div class="col-3 "><br>
         <br>
 
-            <a href="../Anime/AttackOnTitan.html">
+            <a href="../Anime/AttackOnTitan.php">
             <img src="../img/Anime/AttackOnTitan.jpg">
             <h1>Attack On Titan</h1></a>
     
             
-            <a href="../Anime/Bleach.html">
+            <a href="../Anime/Bleach.php">
             <img src="../img/Anime/Bleach.jpg">
             <h1>Bleach</h1></a>
               
-            <a href="../Anime/NarutoShippuden.html">
+            <a href="../Anime/NarutoShippuden.php">
             <img src="../img/Anime/NarutoShippuden.png">
             <h1>The Last: Naruto The Movie</h1></a>
             
-            <a href="../Anime/Jujutsu.html">
+            <a href="../Anime/Jujutsu.php">
             <img src="../img/Anime/Jujutsu.jpg">
             <h1>Jujutsu Kaisen: The Movie</h1></a>
         

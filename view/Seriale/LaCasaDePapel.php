@@ -54,22 +54,22 @@
     <br>
 
     <div class = "flex">
-        <a href="../LaCasa/Episodi8.html">
+        <a href="../LaCasa/Episodi8.php">
         <img src="../img/Serial/La-casa.jpg">
         <h1>Sezoni 1 - Episodi 8</h1>
         </a>
           
-        <a href="../LaCasa/Episodi7.html">
+        <a href="../LaCasa/Episodi7.php">
         <img src="../img/Serial/La-casa.jpg">
         <h1>Sezoni 1 - Episodi 7</h1>
         </a>
 
-        <a href="../LaCasa/Episodi6.html">
+        <a href="../LaCasa/Episodi6.php">
         <img src="../img/Serial/La-casa.jpg">
         <h1>Sezoni 1 - Episodi 6</h1>
         </a>
 
-        <a href="../LaCasa/Episodi5.html">
+        <a href="../LaCasa/Episodi5.php">
             <img src="../img/Serial/La-casa.jpg">
             <h1>Sezoni 1 - Episodi 5</h1>
             </a>
@@ -77,22 +77,22 @@
     </div>
 
     <div class = "flex">       
-        <a href="../LaCasa/Episodi4.html">
+        <a href="../LaCasa/Episodi4.php">
         <img src="../img/Serial/La-casa.jpg">
         <h1>Sezoni 1 - Episodi 4</h1>
         </a>
           
-        <a href="../LaCasa/Episodi3.html">
+        <a href="../LaCasa/Episodi3.php">
         <img src="../img/Serial/La-casa.jpg">
         <h1>Sezoni 1 - Episodi 3</h1>
         </a>
 
-        <a href="../LaCasa/Episodi2.html">
+        <a href="../LaCasa/Episodi2.php">
         <img src="../img/Serial/La-casa.jpg">
         <h1>Sezoni 1 - Episodi 2</h1>
         </a>
         
-        <a href="../LaCasa/Episodi1.html">
+        <a href="../LaCasa/Episodi1.php">
             <img src="../img/Serial/La-casa.jpg">
             <h1>Sezoni 1 - Episodi 1</h1>
             </a>  

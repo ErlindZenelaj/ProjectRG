@@ -74,20 +74,20 @@
         <h1>Filma Tjere</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../Filmat/Batman.html">
+        <a href="../Filmat/Batman.php">
             <img src="../img/Movies/Batman.jpg">
             <h1>Batman</h1></a>
     
             
-            <a href="../Filmat/HalloweenKills.html">
+            <a href="../Filmat/HalloweenKills.php">
             <img src="../img/Movies/Halloween Kills.jpg">
             <h1>Halloween Kills</h1></a>
               
-            <a href="../Filmat/Venom.html">
+            <a href="../Filmat/Venom.php">
                 <img src="../img/Movies/Venom.jpg">
             <h1>Venom: Let there be carnage</h1></a>
             
-            <a href="../Filmat/Eternals.html">
+            <a href="../Filmat/Eternals.php">
             <img src="../img/Movies/Eternals.jpg">
             <h1>Eternals</h1></a>
         

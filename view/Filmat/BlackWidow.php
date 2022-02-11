@@ -72,20 +72,20 @@
         <h1>Filma Tjere</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../Filmat/Free-Guy.html">
+        <a href="../Filmat/Free-Guy.php">
             <img src="../img/Movies/Free-Guy.jpg">
             <h1>Free Guy</h1></a>
     
             
-            <a href="../Filmat/HalloweenKills.html">
+            <a href="../Filmat/HalloweenKills.php">
             <img src="../img/Movies/Halloween Kills.jpg">
             <h1>Halloween Kills</h1></a>
               
-            <a href="../Filmat/Shang-Chi.html">
+            <a href="../Filmat/Shang-Chi.php">
                 <img src="../img/Movies/Shang-Chi.jpeg">
             <h1>Shang Chi</h1></a>
             
-            <a href="../Filmat/SpiderManNWH.html">
+            <a href="../Filmat/SpiderManNWH.php">
             <img src="../img/Movies/SpiderMan.jpg">
             <h1>Spider Man: Far From Home</h1></a>
         

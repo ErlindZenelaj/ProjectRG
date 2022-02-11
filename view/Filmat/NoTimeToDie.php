@@ -74,20 +74,20 @@
         <h1>Filma Tjere</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../Filmat/Venom.html">
+        <a href="../Filmat/Venom.php">
             <img src="../img/Movies/Venom.jpg">
             <h1>Venom</h1></a>
     
             
-            <a href="../Filmat/Free-Guy.html">
+            <a href="../Filmat/Free-Guy.php">
             <img src="../img/Movies/Free-Guy.jpg">
             <h1>Free Guy</h1></a>
               
-            <a href="../Filmat/SpiderMan1.html">
+            <a href="../Filmat/SpiderMan1.php">
                 <img src="../img/Movies/SpiderMan1.jpg">
             <h1>Spider Man: No Way Home</h1></a>
             
-            <a href="../Filmat/Batman.html">
+            <a href="../Filmat/Batman.php">
             <img src="../img/Movies/Batman.jpg">
             <h1>Batman</h1></a>
         

@@ -54,22 +54,22 @@
     <br>
 
     <div class = "flex">
-        <a href="../Education/Episodi8.html">
+        <a href="../Education/Episodi8.php">
         <img src="../img/Serial/Sex-education.jpg">
         <h1>Sezoni 1 - Episode 8</h1>
         </a>
         
-        <a href="../Education/Episodi7.html">
+        <a href="../Education/Episodi7.php">
         <img src="../img/Serial/Sex-education.jpg">
         <h1>Sezoni 1 - Episodi 7</h1>
         </a>
           
-        <a href="../Education/Episodi6.html">
+        <a href="../Education/Episodi6.php">
         <img src="../img/Serial/Sex-education.jpg">
         <h1>Sezoni 1 - Episodi 6</h1>
         </a>
 
-        <a href="../Education/Episodi5.html">
+        <a href="../Education/Episodi5.php">
         <img src="../img/Serial/Sex-education.jpg">
         <h1>Sezoni 1 - Episodi 5</h1>
         </a>
@@ -77,23 +77,23 @@
     </div>
 
     <div class = "flex">
-        <a href="../Education/Episodi4.html">
+        <a href="../Education/Episodi4.php">
         <img src="../img/Serial/Sex-education.jpg">
         <h1>Sezoni 1 - Episodi 4</h1>
         </a>
 
         
-        <a href="../Education/Episodi3.html">
+        <a href="../Education/Episodi3.php">
         <img src="../img/Serial/Sex-education.jpg">
         <h1>Sezoni 1 - Episodi 3</h1>
         </a>
           
-        <a href="../Education/Episodi2.html">
+        <a href="../Education/Episodi2.php">
         <img src="../img/Serial/Sex-education.jpg">
         <h1>Sezoni 1 - Episodi 2</h1>
         </a>
 
-        <a href="../Education/Episodi1.html">
+        <a href="../Education/Episodi1.php">
         <img src="../img/Serial/Sex-education.jpg">
         <h1>Sezoni 1 - Episodi 1</h1>
         </a>

@@ -73,19 +73,19 @@
         <h1>Filma Tjere</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../Filmat/Batman.html">
+        <a href="../Filmat/Batman.php">
             <img src="../img/Movies/Batman.jpg">
             <h1>Batman</h1></a>
             
-            <a href="../Filmat/SpiderManNWH.html">
+            <a href="../Filmat/SpiderManNWH.php">
             <img src="../img/Movies/SpiderMan.jpg">
             <h1>Spider Man: Far From Home</h1></a>
               
-            <a href="../Filmat/TheSuicideSquad.html">
+            <a href="../Filmat/TheSuicideSquad.php">
                 <img src="../img/Movies/TheSuicideSquad.jpg">
             <h1>The Suicide Squad</h1></a>
             
-            <a href="../Filmat/Eternals.html">
+            <a href="../Filmat/Eternals.php">
             <img src="../img/Movies/Eternals.jpg">
             <h1>Eternals</h1></a>
         

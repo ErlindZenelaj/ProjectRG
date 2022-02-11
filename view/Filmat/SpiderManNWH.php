@@ -75,20 +75,20 @@
         <h1>Filma Tjerë</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../Filmat/SpiderMan1.html">
+        <a href="../Filmat/SpiderMan1.php">
             <img src="../img/Movies/SpiderMan1.jpg">
             <h1>Spider Man: No Way Home</h1></a>
     
             
-            <a href="../Filmat/F9.html">
+            <a href="../Filmat/F9.php">
             <img src="../img/Movies/F9.jpg">
             <h1>F9</h1></a>
               
-            <a href="../Filmat/Shang-Chi.html">
+            <a href="../Filmat/Shang-Chi.php">
                 <img src="../img/Movies/Shang-Chi.jpeg">
             <h1>Shang Chi</h1></a>
             
-            <a href="../Filmat/NoTimeToDie.html">
+            <a href="../Filmat/NoTimeToDie.php">
             <img src="../img/Movies/NoTimeToDie.jpg">
             <h1>No Time To Die</h1></a>
         

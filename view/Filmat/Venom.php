@@ -76,20 +76,20 @@
         <h1>Filma Tjere</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../Filmat/NoTimeToDie.html">
+        <a href="../Filmat/NoTimeToDie.php">
             <img src="../img/Movies/NoTimeToDie.jpg">
             <h1>No Time To Die</h1></a>
     
             
-            <a href="../Filmat/TheSuicideSquad.html">
+            <a href="../Filmat/TheSuicideSquad.php">
             <img src="../img/Movies/TheSuicideSquad.jpg">
             <h1>The Suicide Squad</h1></a>
               
-            <a href="../Filmat/BlackWidow.html">
+            <a href="../Filmat/BlackWidow.php">
                 <img src="../img/Movies/BlackWidow.jpg">
             <h1>Black Widow</h1></a>
             
-            <a href="../Filmat/SpiderMan1.html">
+            <a href="../Filmat/SpiderMan1.php">
             <img src="../img/Movies/SpiderMan1.jpg">
             <h1>Spider Man: No Way Home</h1></a>
         

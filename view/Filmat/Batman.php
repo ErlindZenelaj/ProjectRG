@@ -76,20 +76,20 @@
         <div class="col-3 "><br>
             
         
-        <a href="../Filmat/SpiderMan1.html">
+        <a href="../Filmat/SpiderMan1.php">
             <img src="../img/Movies/SpiderMan1.jpg">
             <h1>Spider Man: No Way Home</h1></a>
     
             
-            <a href="../Filmat/TheSuicideSquad.html">
+            <a href="../Filmat/TheSuicideSquad.php">
             <img src="../img/Movies/TheSuicideSquad.jpg">
             <h1>The Suicide Squad</h1></a>
               
-            <a href="../Filmat/Venom.html">
+            <a href="../Filmat/Venom.php">
                 <img src="../img/Movies/Venom.jpg">
             <h1>Venom: Let there be carnage</h1></a>
             
-            <a href="../Filmat/Eternals.html">
+            <a href="../Filmat/Eternals.php">
             <img src="../img/Movies/Eternals.jpg">
             <h1>Eternals</h1></a>
         

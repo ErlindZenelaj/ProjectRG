@@ -72,20 +72,20 @@
         <h1>Filma Tjere</h1> <br> <br>
         <div class="col-3 "><br>
         <br>
-        <a href="../Filmat/Shang-Chi.html">
+        <a href="../Filmat/Shang-Chi.php">
             <img src="../img/Movies/Shang-Chi.jpeg">
             <h1>Shang Chi</h1></a>
     
             
-            <a href="../Filmat/HalloweenKills.html">
+            <a href="../Filmat/HalloweenKills.php">
             <img src="../img/Movies/Halloween Kills.jpg">
             <h1>Halloween Kills</h1></a>
               
-            <a href="../Filmat/BlackWidow.html">
+            <a href="../Filmat/BlackWidow.php">
                 <img src="../img/Movies/BlackWidow.jpg">
             <h1>Black Widow</h1></a>
             
-            <a href="../Filmat/NoTimeToDie.html">
+            <a href="../Filmat/NoTimeToDie.php">
             <img src="../img/Movies/NoTimeToDie.jpg">
             <h1>No Time To Die</h1></a>
         

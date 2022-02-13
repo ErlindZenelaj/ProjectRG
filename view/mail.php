@@ -26,7 +26,7 @@ echo'
 <body>
     <div class="container">
         <h1>Faleminderit qe na kontaktuat do te ju njoftojm se shpejti</h1>
-        <p class="back">Go back to the <a href="index.html">homepage</a>.</p>
+        <p class="back">Go back to the <a href="Index.php">HOMEPAGE</a>.</p>
         
     </div>
 </body>

@@ -41,6 +41,8 @@
               </li>
               
               <li><a href="../ProjectRG/Anime.php">Anime</a></li>
+              <li><a href="../view/Contactus.php">ContactUs</a></li>
+
               <div class="lg">
               <li><a href="../ProjectRG/logout.php">Log out</a></li></div>
               

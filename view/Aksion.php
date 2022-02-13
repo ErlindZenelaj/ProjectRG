@@ -39,6 +39,8 @@
               </li>
               
               <li><a href="Anime.php">Anime</a></li>
+              <li><a href="../view/Contactus.php">ContactUs</a></li>
+
               <div class="lg">
                 <li><a href="../view/logout.php">Log out</a></li></div>
               

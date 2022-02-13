@@ -4,7 +4,7 @@ class DatabaseConnection{
     private $server="localhost";
     private $username="root";
     private $password="";
-    private $database="test1";
+    private $database="project1";
 
    
 

@@ -39,6 +39,8 @@ php<!DOCTYPE html>
               </li>
               
               <li><a href="../Anime.php">Anime</a></li>
+              <li><a href="../Contactus.php">ContactUs</a></li>
+
               <div class="lg">
                 <li><a href="../logout.php">Log out</a></li></div>
             </ul>

@@ -62,7 +62,7 @@
     <div class = "flex">
         <a href="Anime/DragonBallSuper.php">
         <img src="img/Anime/DragonBallSuper.jpg">
-        <h1>Dragon Ball: Super</h1>
+        <h1>Dragon Ball Super</h1>
         </a>
 
         
@@ -71,7 +71,7 @@
         <h1>Naruto Shippuden</h1>
         </a>
           
-        <a href="Anime/DeathNotephpl">
+        <a href="Anime/DeathNote.php">
         <img src="img/Anime/DeathNote.jpg">
         <h1>Death Note</h1>
         </a>

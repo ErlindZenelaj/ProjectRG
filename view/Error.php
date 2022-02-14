@@ -28,28 +28,29 @@
           <input type="checkbox" id="show-menu">
           <label for="show-menu" class="menu-icon"><i class="fas fa-bars"></i></label>
           <div class="content">
-          <div class="logo"><a href="Index.php">RG-Movies</a></div>
+          <div class="logo"><a href="../view/Index.php">RG-Movies</a></div>
             <ul class="links">
-              <li><a href="../ProjectRG/Index.php">Filma</a></li>
-              <li><a href="../ProjectRG/Seriale.php">Seriale</a></li>
+              <li><a href="Index.php">Filma</a></li>
+              <li><a href="Seriale.php">Seriale</a></li>
               <li>
                 <a href="#" class="desktop-link">Zhanri</a>
                 <input type="checkbox" id="show-features">
                 <label for="show-features">Zhanri</label>
                 <ul>
-                  <li><a href="../ProjectRG/Aksion.php">Aksion</a></li>
-                  <li><a href="../ProjectRG/Komedi.php">Komedi</a></li>
-                  <li><a href="../ProjectRG/Adventure.php">Adventure</a></li>
-                  <li><a href="../ProjectRG/Horror.php">Horror</a></li>
+                  <li><a href="Aksion.php">Aksion</a></li>
+                  <li><a href="Komedi.php">Komedi</a></li>
+                  <li><a href="Adventure.php">Adventure</a></li>
+                  <li><a href="Horror.php">Horror</a></li>
                   
                 </ul>
               </li>
               
-              <li><a href="../ProjectRG/Anime.php">Anime</a></li>
+              <li><a href="Anime.php">Anime</a></li>
               <li><a href="../view/Contactus.php">ContactUs</a></li>
 
               <div class="lg">
-              <li><a href="../ProjectRG/logout.php">Log out</a></li></div>
+              <li><a href="logout.php">Log out</a></li></div>
+              
               
             </ul>
           </div>
@@ -66,57 +67,14 @@
     <div class="Error">
     <h1>Error 404</h1>
     <p>Faqja qe kerkoni nuk egziston <br>
-    Ju lutem provoni tjeter!</p>
+    Ju lutem provoni perseri!</p>
     <div>
         
     </div>
     </div>
 
 
-    <br> <br> <br> <br> <br> <br> <br> <br> <br> 
-        
-    <footer class="footer">
-     
-        <div class="inner">
-            <div class="column is-logo">
-                <a href="#" class="main-logo">
-                    <div class="logo">
-                        <img src="img/rg.png" alt="Logo">
-                    </div>
-                    <div class="logo-info">
-                        <div class="text">RG-Movies</div>
-                        <span class="copyright">By: Lindi&Nori</span>
-                    </div>
-                </a>
-            </div>
-            <div class="column is-nav">
-                <div class="column-title">Navigation</div>
-                <ul>
-                    <li><a href="Index.php">Home</a></li>
-                    <li><a href="Seriale.php">Seriale</a></li>
-                    <li><a href="Anime.php">Anime</a></li>
-                    <li><a href="logout.php">Log Out</a></li>
-                </ul>
-            </div>
-            <div class="column is-nav">
-                <div class="column-title">Contact</div>
-                <ul>
-                    <li><a href="#"><i class="fa fa-envelope-open"></i>RG-Movies@info.com</a></li>
-                    
-                    
-                </ul>
-                    
-            </div>
-            <div class="column is-nav">
-                <div class="column-title">Social Media</div>
-                <ul>
-                    <a href="#" class="fa fa-facebook"></a>
-                    <a href="#" class="fa fa-twitter"></a>
-                    <a href="#" class="fa fa-instagram"></a>
-                </ul>
-            </div>
-        </div>
-    </footer>
+
 
     <script src="jsfile.js"></script>
 

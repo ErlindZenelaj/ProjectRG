@@ -18,7 +18,7 @@
    
     <div class="forms">
         <div class="form-content">
-          <p>You don't have access to this page, you will be redirected to the login page after 10 seconds</p>
+          <p>You don't have access to this page, you will be redirected to the login page after 5 seconds</p>
           <?php header("refresh:5;url=login.php"); ?>
       </div>    
     

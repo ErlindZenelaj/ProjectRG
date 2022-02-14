@@ -1,8 +1,8 @@
 <?php 
     session_start();
     require_once '../controller/auth_check.php';
-
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +21,7 @@
 <body>
 
 <h1>
-    <?php echo ucfirst($_SESSION['username']); ?></h1>
+    
 
     <div class="wrapper">
         <nav>
@@ -62,7 +62,15 @@
         </nav>
       </div>
     
+    <br>    
     <br>
+    
+  
+
+
+
+    User: 
+    <?php echo ucfirst($_SESSION['username']); ?></h1> 
 
 
 

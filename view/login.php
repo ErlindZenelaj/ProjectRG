@@ -1,3 +1,8 @@
+<?php 
+    session_start();
+    require_once '../controller/auth_check.php';
+
+?>
 <?php
 include_once '../controller/loginController.php';
 

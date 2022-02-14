@@ -20,6 +20,9 @@
 </head>
 <body>
 
+<h1>
+    <?php echo ucfirst($_SESSION['username']); ?></h1>
+
     <div class="wrapper">
         <nav>
           <input type="checkbox" id="show-search">
@@ -43,7 +46,7 @@
                 </ul>
               </li>
               
-              <li><a href="Animep.php">Anime</a></li>
+              <li><a href="Anime.php">Anime</a></li>
               <li><a href="Contactus.php">ContactUs</a></li>
 
               <div class="lg">
@@ -61,62 +64,6 @@
     
     <br>
 
-    <div class = "flex">
-        <a href="../view/Filmat/Free-Guy.php">
-        <img src="img/Movies/Free-Guy.jpg">
-        <h1>Free Guy</h1>
-        <p>Aksion </p>
-         
-
-        
-       
-       
-    </div>
-
-    <footer class="footer">
-     
-        <div class="inner">
-            <div class="column is-logo">
-                <a href="#" class="main-logo">
-                    <div class="logo">
-                        <img src="img/rg.png" alt="Logo">
-                    </div>
-                    <div class="logo-info">
-                        <div class="text">RG-Movies</div>
-                        <span class="copyright">By: Lindi&Nori</span>
-                    </div>
-                </a>
-            </div>
-            <div class="column is-nav">
-                <div class="column-title">Navigation</div>
-                <ul>
-                    <li><a href="Index.php">Home</a></li>
-                    <li><a href="Seriale.php">Seriale</a></li>
-                    <li><a href="Anime.php">Anime</a></li>
-                    <li><a href="logout.php">Log Out</a></li>
-                </ul>
-            </div>
-            <div class="column is-nav">
-                <div class="column-title">Contact</div>
-                <ul>
-                    <li><a href="#"><i class="fa fa-envelope-open"></i>RG-Movies@info.com</a></li>
-                    
-                    
-                </ul>
-                    
-            </div>
-            <div class="column is-nav">
-                <div class="column-title">Social Media</div>
-                <ul>
-                    <a href="#" class="fa fa-facebook"></a>
-                    <a href="#" class="fa fa-twitter"></a>
-                    <a href="#" class="fa fa-instagram"></a>
-                </ul>
-            </div>
-        </div>
-    </footer>
-
-    
 
 
 </body>
